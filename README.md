@@ -58,26 +58,22 @@ Password Reset
 
 <h2>Configuration Steps</h2>
 
-<p>
-<img src="[https://i.imgur.com/DJmEXEB.png](https://imgur.com/WwqVQe1)" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+1. Change the default administrator username and password:
+After installing osTicket, the default username and password for the administrator account are 'admin' and 'password' respectively. It is essential to change these credentials for security purposes. You can do this by logging in to the admin panel, navigating to 'Users' and editing the 'admin' account.
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+2. Configure the email settings:
+osTicket uses email to communicate with customers and staff, so it is essential to configure email settings correctly. Navigate to the admin panel, click on 'Settings,' and then 'Email' to configure email settings. You can specify the email server, SMTP settings, and email templates.
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+3. Set up departments and staff accounts:
+To manage tickets effectively, you need to set up departments and assign staff members to them. To do this, navigate to the admin panel, click on 'Staff' and then 'Departments.' You can create departments, assign managers, and add staff members to each department.
+
+4. Customize ticket forms:
+osTicket provides default ticket forms, but you can customize them to meet your specific needs. Navigate to the admin panel, click on 'Forms,' and then 'Tickets.' Here, you can customize fields, create new fields, and arrange them to suit your needs.
+
+5. Configure user registration:
+osTicket allows users to register for accounts to create and manage tickets. To enable user registration, navigate to the admin panel, click on 'Settings,' and then 'Registration.' Here, you can configure user registration settings, such as captcha settings and whether to require email verification.
+
+6. Customize your helpdesk:
+osTicket provides various customization options, such as themes, logos, and text labels. You can customize your helpdesk by navigating to the admin panel, clicking on 'Appearance,' and then 'Customize.' Here, you can upload logos, change colors, and modify text labels.
+
+These are some of the essential post-installation configurations that you can do to optimize your osTicket installation. By doing these configurations, you can make your osTicket installation more secure, efficient, and user-friendly.
